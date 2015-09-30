@@ -1,5 +1,5 @@
 # hello-world
 Getting started repository
 
-Hello.
-I love to play golf. 
+Hello I am Ricky.
+I love to play golf.
